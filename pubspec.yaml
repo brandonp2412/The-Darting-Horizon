@@ -1,7 +1,7 @@
 name: the_darting_horizon
-description: A sample command-line application.
+description: A voyage across the high seas of programming.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/brandonp2412/The-Darting-Horizon
 
 environment:
   sdk: ^3.5.4
