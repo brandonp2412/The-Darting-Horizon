@@ -1,9 +1,6 @@
 void main(List<String> arguments) {
-  // Let's sail! Make sure the wind is fast.
-  var windy = false;
+  var days = ['Sunday', 'Monday', 'Tuesday'];
+  var workdays = [/*Fill in this list*/];
 
-  if (windy)
-    print("Sailing should be great!");
-  else
-    print("There's no wind! We need to use the motor...");
+  // Say which day is a workday and which isn't below
 }
